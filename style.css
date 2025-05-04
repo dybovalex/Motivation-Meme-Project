@@ -5,10 +5,11 @@ html {
 div {
   width: 50%;
   margin: 25%;
+  text-align: center;
 }
 
 img {
-  width: 100%; /* or any desired max width */
+  width: 90%; /* or any desired max width */
   height: auto; /* preserves aspect ratio */
   border: 5px solid white;
 }
